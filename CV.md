@@ -42,7 +42,7 @@
 
 ### Навыки
 
-- [x] Test Management: Test Plan
+- [x] Test Management: Test Plan, check list, test case;
 - [x] BTS: Jira;\
 ![Header](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=jira&logoColor=136be1)
 - [x] Databases: MySQL;\
