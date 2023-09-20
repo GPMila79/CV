@@ -1,4 +1,4 @@
-![Header](blob:https://web.whatsapp.com/b3156f59-a3f2-4d04-a1da-3c8dd773839c)
+![Header](https://web.whatsapp.com/b3156f59-a3f2-4d04-a1da-3c8dd773839c)
 
 ## Ludmila Pshenichnikova
 
