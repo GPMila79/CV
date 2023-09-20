@@ -1,9 +1,9 @@
-![Header] (https://depositphotos.com/ru/vector/logo-quality-assurance-qa-testing-smears-with-a-brush-vecto-180736330.html)
+![Header](https://depositphotos.com/ru/vector/logo-quality-assurance-qa-testing-smears-with-a-brush-vecto-180736330.html)
 ## Ludmila Pshenichnikova
 
 ### Контакты
 
-+ телефон  +7 926 270 21 98
+ +7 926 270 21 98
 + lu.pshenichnikova@gmail.com
 + ТГ - @Ludmila_plv
 + ![Github](https://github.com/GPMila79)
