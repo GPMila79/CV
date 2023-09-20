@@ -43,15 +43,17 @@
 ### Навыки
 
 - [x] Test Management: Test Plan
-- [x] BTS: Jira;
-- [x] Databases: MySQL;
+- [x] BTS: Jira;\
+![Header](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=jira&logoColor=136be1)
+- [x] Databases: MySQL;\
+![Header](https://img.shields.io/badge/MySQL-090909?style=for-the-badge&logo=mysql&logoColor=00618a)
 - [x] OS: Windows, Android;
 - [x] Tools: Git, Postman;\
 ![Header](https://img.shields.io/badge/Github-090909?style=for-the-badge&logo=github&logoColor=8cc4d7) ![Header](https://img.shields.io/badge/Postman-090909?style=for-the-badge&logo=postman&logoColor=f76935)
-- [x] Tools: Git, Postman;
 - [x] Language: Python (basе), Java (basе), HTML&CSS;
 - [x] English level - B2;
-- [x] Espanol nivel - B2.
+- [x] Espanol nivel - B2.<br>
+![Header](https://img.shields.io/badge/Figma-090909?style=for-the-badge&logo=figma&logoColor=7d5fa6) ![Header](https://img.shields.io/badge/DevTools-090909?style=for-the-badge&logo=googlechrome&logoColor=2674f2)
 
 ### Образование/курсы
 
@@ -60,12 +62,8 @@
 + (2003) The Mayflower College of English (English - UI)
 + (2021) ГБОУ ДПО Центр «Профессионал» (Аналитик данных)
 + (2022) Нетология (Тестировщик ПО)
-+ (2023) UADE (Espanol - В2)<hr>
++ (2023) UADE (Espanol - В2)
 
 
-![Header](https://img.shields.io/badge/Postman-090909?style=for-the-badge&logo=postman&logoColor=f76935)
-![Header](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=jira&logoColor=136be1)
-![Header](https://img.shields.io/badge/Github-090909?style=for-the-badge&logo=github&logoColor=8cc4d7)
-![Header](https://img.shields.io/badge/Figma-090909?style=for-the-badge&logo=figma&logoColor=7d5fa6)
-![Header](https://img.shields.io/badge/MySQL-090909?style=for-the-badge&logo=mysql&logoColor=00618a)
-![Header](https://img.shields.io/badge/DevTools-090909?style=for-the-badge&logo=googlechrome&logoColor=2674f2)
+
+
