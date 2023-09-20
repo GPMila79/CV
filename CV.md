@@ -46,7 +46,9 @@
 - [x] BTS: Jira;
 - [x] Databases: MySQL;
 - [x] OS: Windows, Android;
+- [x] Tools: Git, Postman;![Header](https://img.shields.io/badge/Github-090909?style=for-the-badge&logo=github&logoColor=8cc4d7)\![Header](https://img.shields.io/badge/Postman-090909?style=for-the-badge&logo=postman&logoColor=f76935)
 - [x] Tools: Git, Postman;
+- [x] Language: Python (basе), Java (basе), HTML&CSS;
 - [x] English level - B2;
 - [x] Espanol nivel - B2.
 
