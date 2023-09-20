@@ -1,4 +1,4 @@
-![Header](https://web.whatsapp.com/b3156f59-a3f2-4d04-a1da-3c8dd773839c)
+![b3156f59-a3f2-4d04-a1da-3c8dd773839c](https://github.com/GPMila79/CV/assets/118618608/160e1f04-91db-4a94-968a-197d1de51ac6)
 
 ## Ludmila Pshenichnikova
 
