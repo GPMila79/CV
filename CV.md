@@ -57,7 +57,7 @@
 + (2003) The Mayflower College of English (English - B2)
 + (2021) ГБОУ ДПО Центр «Профессионал» (Аналитик данных)
 + (2022) Нетология (Тестировщик ПО)
-+ (2023) UADE (Espanol - В1)
++ (2023) UADE (Espanol - В2)
 
 
 ![Header](https://img.shields.io/badge/Postman-090909?style=for-the-badge&logo=postman&logoColor=f76935)
