@@ -1,4 +1,5 @@
-![depositphotos_180736330-stock-illustration-logo-quality-assurance-qa-testing](https://github.com/GPMila79/CV/assets/118618608/d3351b2b-baa1-44a7-9020-8733de4d73ac)
+![Header](blob:https://web.whatsapp.com/b3156f59-a3f2-4d04-a1da-3c8dd773839c)
+
 ## Ludmila Pshenichnikova
 
 ### Контакты
