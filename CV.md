@@ -4,7 +4,7 @@
 
 ### Контакты
 
- +7 926 270 21 98
++ +7 926 270 21 98
 + lu.pshenichnikova@gmail.com
 + ТГ - @Ludmila_plv
 + ![Github](https://github.com/GPMila79)
@@ -50,7 +50,7 @@
 - [x] OS: Windows, Android;
 - [x] Tools: Git, Postman;
 - [x] English level - B2;
-- [x] Espanol level - B2.
+- [x] Espanol nivel - B2.
 
 
 ![Header](https://img.shields.io/badge/Postman-090909?style=for-the-badge&logo=postman&logoColor=f76935)
