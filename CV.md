@@ -1,4 +1,4 @@
-<img src="http://github.com/GPMila79/CV/assets/118618608/3eb19174-28e4-47b1-b5e0-3502887bb030/image.png" width="200" height="200">
+<img src="http://118618608/3eb19174-28e4-47b1-b5e0-3502887bb030/image.png" width="200" height="200">
 
 ## Ludmila Pshenichnikova
 
