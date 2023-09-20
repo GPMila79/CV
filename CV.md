@@ -49,7 +49,7 @@
 - [x] Tools: Git, Postman;![Header](https://img.shields.io/badge/Github-090909?style=for-the-badge&logo=github&logoColor=8cc4d7) ![Header](https://img.shields.io/badge/Postman-090909?style=for-the-badge&logo=postman&logoColor=f76935)
 - [x] Language: Python (basе), Java (basе), HTML&CSS;
 - [x] English level - B2;
-- [x] Espanol nivel - B2.
+- [x] Espanol nivel - B2.\
   <br>
 ![Header](https://img.shields.io/badge/Figma-090909?style=for-the-badge&logo=figma&logoColor=7d5fa6) ![Header](https://img.shields.io/badge/DevTools-090909?style=for-the-badge&logo=googlechrome&logoColor=2674f2)
 
