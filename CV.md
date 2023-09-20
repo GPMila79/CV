@@ -1,0 +1,54 @@
+[![Header] (https://depositphotos.com/ru/vector/logo-quality-assurance-qa-testing-smears-with-a-brush-vecto-180736330.html)]
+## Ludmila Pshenichnikova
+
+### Опыт работы
+
+#### ООО "УК Адмирал"
+#### Руководитель клиентского отдела
+
+Разработка (совместно с IT) и внедрение СРM программы для своего отдела.
+Тестирование сайта компании.
+Размещение новостей на сайте компании.
+Модернизация сайта.
+Организация рабочего процесса отдела, координация, контроль выполнения поставленных задач.
+Формирование системы регулярной отчетности по всему функционалу отдела.
+Обеспечение системы эффективного взаимодействия отдела с другими структурными подразделениями компании.
+
+#### ПАО Банк "Финансовая Корпорация Открытие"
+#### Главный специалист департамента проектного финансирования, ведущий специалист департамента проектного финансирования
+
+Анализ инвестиционных и строительных проектов.
+Анализ модели движения денежных средств (CF).
+Анализ бизнес-плана.
+Анализ рисков.
+Ведение переговоров с Клиентами по вопросам финансирования строительных проектов.
+Финансовый анализ хозяйственной деятельности предприятия.
+Оценка кредитоспособности предприятий-заемщиков.
+
+### O себе
+
++ Легко нахожу контакт с людьми;
++ Могу расставлять приоритеты и выполнять все поставленные задачи в срок;
++ При анализе данных всегда обращаю внимание на детали;
++ Люблю учиться новому.
+
+**Огромное желание развиваться и расти в сфере IT. Обладаю ресурсом для усердной и активной работы для получения опыта и дальнейшего развития.**
+
+### Навыки
+
+- [x] Test Management: Test Plan
+- [x] BTS: Jira;
+- [x] Databases: MySQL;
+- [x] OS: Windows, Android;
+- [x] Tools: Git, Postman;
+- [x]English level - B2;
+- [x] Espanol level - B2.
+
+### Language and Tools
+
+![Header](https://img.shields.io/badge/Postman-090909?style=for-the-badge&logo=postman&logoColor=f76935)
+![Header](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=jira&logoColor=136be1)
+![Header](https://img.shields.io/badge/Github-090909?style=for-the-badge&logo=github&logoColor=8cc4d7)
+![Header](https://img.shields.io/badge/Figma-090909?style=for-the-badge&logo=figma&logoColor=7d5fa6)
+![Header](https://img.shields.io/badge/MySQL-090909?style=for-the-badge&logo=mysql&logoColor=00618a)
+![Header](https://img.shields.io/badge/DevTools-090909?style=for-the-badge&logo=googlechrome&logoColor=2674f2)
