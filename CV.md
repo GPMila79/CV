@@ -1,4 +1,4 @@
-![Header](https://depositphotos.com/ru/vector/logo-quality-assurance-qa-testing-smears-with-a-brush-vecto-180736330.html)
+![depositphotos_180736330-stock-illustration-logo-quality-assurance-qa-testing](https://github.com/GPMila79/CV/assets/118618608/d3351b2b-baa1-44a7-9020-8733de4d73ac)
 ## Ludmila Pshenichnikova
 
 ### Контакты
