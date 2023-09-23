@@ -54,7 +54,7 @@
 - [x] English level - B2;
 - [x] Espanol nivel - B2.\
  \
-![HeaderС(https://img.shields.io/badge/Figma-090909?style=for-the-badge&logo=figma&logoColor=7d5fa6) ![Header](https://img.shields.io/badge/DevTools-090909?style=for-the-badge&logo=googlechrome&logoColor=2674f2)
+![Header](https://img.shields.io/badge/Figma-090909?style=for-the-badge&logo=figma&logoColor=7d5fa6) ![Header](https://img.shields.io/badge/DevTools-090909?style=for-the-badge&logo=googlechrome&logoColor=2674f2)
 
 ### Образование/курсы
 
@@ -62,7 +62,8 @@
   Экономика, организация и управление строительством **(Диплом с отличием)**.
 + (2003) The Mayflower College of English (English - UI)
 + (2021) ГБОУ ДПО Центр «Профессионал» (Аналитик данных)
-+ (2022) Нетология (Тестировщик ПО). ![Курсовая работа](https://docs.google.com/spreadsheets/d/1t_JGF6ztlUuAbtsx3V-ELA-mz8FPaamqaL4UTJAc-1s/edit#gid=0)
++ (2022) Нетология (Тестировщик ПО).
++ ![Курсовая работа](https://docs.google.com/spreadsheets/d/1t_JGF6ztlUuAbtsx3V-ELA-mz8FPaamqaL4UTJAc-1s/edit#gid=0)
 + (2023) UADE (Espanol - В2)
 
 
