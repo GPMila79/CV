@@ -5,7 +5,7 @@
 + +7 926 270 21 98
 + lu.pshenichnikova@gmail.com
 + ТГ - @Ludmila_plv
-+ ![Github](https://github.com/GPMila79)
++ [Github](https://github.com/GPMila79)
 
 ### Опыт работы
 
